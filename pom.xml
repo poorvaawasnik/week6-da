@@ -1,0 +1,10 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.blogapi</groupId>
+  <artifactId>week6-spring-blog-api</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+  <properties>
+    <java.version>17</java.version>
+  </properties>
+</project>
