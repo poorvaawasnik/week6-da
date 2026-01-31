@@ -3,7 +3,7 @@
 
 A RESTful backend application for managing blog content using Spring Boot and Spring Data JPA. The system supports user authentication, blog post creation, categories, comments, and role-based access control. It follows layered architecture, REST standards, and database best practices.
 
-🚀 Features:
+🚀 Features:--
 
 ✔ User registration & login
 ✔ Role-based access (ADMIN / AUTHOR / USER)
